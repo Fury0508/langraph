@@ -117,7 +117,6 @@ graph = graph_builder.compile()
 
 
 # Use the Graph
-
 def call_graph():
     state = {
         "user_message": "Explain me python functions",
